@@ -20,12 +20,11 @@
 
 <img align="right" width="260" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="laptop" />
 
-- 🎓 Computer science student
+- 🎓 Computer science student at École de Technologie Supérieure
 - 🔭 Currently working on **RevisionAI**, a study tool powered by local AI (Ollama)
-- 🌱 Learning: AI tooling, web development, clean code
+- 🌱 Learning: AI tooling, web development and embedded systems
 - 🤝 Open to collaborating on student & open-source projects
-- 💬 Ask me about: Python, web, prompt engineering
-- ⚡ Fun fact: I turn coffee into code ☕
+- 💬 Ask me about: HTML, CSS, Javascript, Python, Web developpment and prompt engineering
 
 <br/>
 
@@ -40,29 +39,6 @@
 <img src="https://img.shields.io/badge/Ollama-AI-b11212?style=for-the-badge&logo=ollama&logoColor=white&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/Claude-Code-ff2e2e?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/Windows-11-8b0000?style=for-the-badge&logo=windows11&logoColor=white&labelColor=0d1117" />
-
-</div>
-
-<br/>
-
-## 📊 GitHub stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=simkzy&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff2e2e&icon_color=ff2e2e&text_color=e6e6e6&ring_color=ff2e2e&rank_icon=github" alt="stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simkzy&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff2e2e&text_color=e6e6e6" alt="top langs" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=simkzy&hide_border=true&background=0D1117&stroke=8B0000&ring=FF2E2E&fire=FF2E2E&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF2E2E&sideLabels=E6E6E6&dates=8B8B8B" alt="streak" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=simkzy&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=6" alt="trophies" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=simkzy&bg_color=0d1117&color=ff2e2e&line=b11212&point=ffffff&area=true&area_color=8b0000&hide_border=true" alt="activity" width="100%" />
 
 </div>
 
