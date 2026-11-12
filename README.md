@@ -18,13 +18,11 @@
 
 ## 🩸 About me
 
-<img align="right" width="260" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="laptop" />
-
 - 🎓 Computer science student at École de Technologie Supérieure
 - 🔭 Currently working on **RevisionAI**, a study tool powered by local AI (Ollama)
 - 🌱 Learning: AI tooling, web development and embedded systems
 - 🤝 Open to collaborating on student & open-source projects
-- 💬 Ask me about: HTML, CSS, Javascript, Python, Web developpment and prompt engineering
+- 💬 Ask me about: HTML, CSS, Javascript, Python, Web development and prompt engineering
 
 <br/>
 
